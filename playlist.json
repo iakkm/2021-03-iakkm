@@ -1,0 +1,35 @@
+{
+  "playlist": [
+    {
+      "titolo": "Analogue Bubblebath",
+      "autore": "Aphex Twin",
+      "durata": "04:23",
+      "cover": "./assets/Analogue bubblebath.jpeg",
+      "filemusic": "./assets/Analogue bubblebath.mp3"
+    },
+
+    {
+      "titolo": "What lies beyond the door",
+      "autore": "Secret Stairways",
+      "durata": "04:41",
+      "cover": "./assets/Secret stairways.jpeg",
+      "filemusic": "./assets/Secret Stairways - What Lies Beyond the Door.mp3"
+    },
+
+    {
+      "titolo": "Gangstas",
+      "autore": "Pop smoke",
+      "durata": "02:32",
+      "cover": "./assets/Pop smoke.png",
+      "filemusic": "./assets/Pop Smoke - Gangstas.mp3"
+    },
+
+    {
+      "titolo": "Sere nere - drill rmx",
+      "autore": "Dielitfede feat. Tiziano Ferro",
+      "durata": "03:05",
+      "cover": "./assets/Sere nere.png",
+      "filemusic": "./assets/SERE NERE DRILL VERSION - TIZIANO FERRO X DIELITFEDE.mp3"
+    }
+  ]
+}
